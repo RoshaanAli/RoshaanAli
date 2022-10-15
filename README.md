@@ -22,7 +22,7 @@
 <!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/imthepk)  -->
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/hellocodepur)  -->
 <!-- [![Twitter](https://img.shields.io/twitter/follow/imthepk?logo=Twitter&style=for-the-badge)](https://twitter.com/imthepk) -->
-githubprofile links
+<!-- githubprofile links -->
 <!-- https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md -->
 <!-- https://github.com/Pudding124 -->
 <!-- https://github.com/meisun0107 -->
