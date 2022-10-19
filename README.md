@@ -37,11 +37,11 @@
 [![React-Native](https://img.icons8.com/nolan/48/react-native.png)](https://reactnative.dev/)
 [![Redux](https://img.icons8.com/color/48/000000/redux.png)](https://redux.js.org/)
 ![Android](https://img.icons8.com/fluency/48/000000/android-os.png)
-[![NextJS](https://cdn.cdnlogo.com/logos/n/48/next-js.svg)](https://redux.js.org/)
+<!-- [![NextJS](https://cdn.cdnlogo.com/logos/n/48/next-js.svg)](https://redux.js.org/) -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
 
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -59,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" width="42" alt="redux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" width="42" alt="visualstudio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" width="42" alt="yarn logo"  />
-</div>
+</div> -->
 
 
 <!--
