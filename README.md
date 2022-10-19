@@ -28,17 +28,21 @@
 <!-- https://github.com/AdityaKumar28 -->
 <!-- https://github.com/iampawan/iampawan/blob/master/README.md -->
 
-## 🌐 Tech Stack
+## 💻 Tech Stack
 [![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 [![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![BS4](https://img.icons8.com/color/48/000000/bootstrap.png)](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![ReactJS](https://img.icons8.com/color/48/000000/react-native.png)](https://reactjs.org/)
+<a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="49" width="49" alt="nextjs logo"  /></a>
 [![React-Native](https://img.icons8.com/nolan/48/react-native.png)](https://reactnative.dev/)
 [![Redux](https://img.icons8.com/color/48/000000/redux.png)](https://redux.js.org/)
 ![Android](https://img.icons8.com/fluency/48/000000/android-os.png)
-<!-- [![NextJS](https://cdn.cdnlogo.com/logos/n/48/next-js.svg)](https://redux.js.org/) -->
- <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  /></a>
+<br />
+[![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)](https://ant.design/)
+[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
+
+ 
 
 
 <!-- <div align="left">
