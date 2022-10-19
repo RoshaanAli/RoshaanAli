@@ -38,7 +38,7 @@
 [![Redux](https://img.icons8.com/color/48/000000/redux.png)](https://redux.js.org/)
 ![Android](https://img.icons8.com/fluency/48/000000/android-os.png)
 <!-- [![NextJS](https://cdn.cdnlogo.com/logos/n/48/next-js.svg)](https://redux.js.org/) -->
- <a href="https://redux.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  /></a>
+ <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  /></a>
 
 
 <!-- <div align="left">
