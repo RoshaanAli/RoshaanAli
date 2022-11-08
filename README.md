@@ -15,6 +15,9 @@
 
 [![@roshaanali's Holopin board](https://holopin.me/roshaanali)](https://holopin.io/@roshaanali)
 
+<a href="https://stackoverflow.com/users/11203109/roshaanali">
+  <img src="https://stackoverflow.com/users/flair/11203109.png?theme=dark" width="208" height="58" alt="profile for RoshaanAli at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for RoshaanAli at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </a>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.roshaanali/) 
