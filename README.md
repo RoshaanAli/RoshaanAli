@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=1500&color=62E44E&center=true&width=435&lines=MERN+Stack+And+Mob+App+Developer;5%2B+years+of+experience" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=1500&color=62E44E&center=true&width=435&lines=MERN+Stack+And+Mob+App+Developer;4.5%2B+years+of+experience" alt="Typing SVG" />
 </p>
 <hr/>
 <p align="center">
